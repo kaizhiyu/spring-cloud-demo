@@ -1,6 +1,6 @@
 # A Spring Cloud Demo
 
-![架构图](https://s1.ax1x.com/2020/07/09/UnRvFO.png)
+![架构图](https://s1.ax1x.com/2020/07/09/UnRvFO-md.png)
 
 
 - **网关服务**：使用zuul实现；
